@@ -5,19 +5,9 @@ define('TITULO', 'Início');
 
 ?>
 
-@include(INCLUDES . 'head')
+@include(INCLUDES . 'header')
 
-<body>
-  
-  <!--  page container  -->
-	<div class="container">
-
-		@include(INCLUDES . 'navbar')
-
-		@include(INCLUDES . 'main_slider')
-	  
-	</div>
-	<!--  end page container  -->	
+@include(INCLUDES . 'main_slider')
 
 @include(INCLUDES . 'footer')
 

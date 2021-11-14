@@ -8,5 +8,8 @@
 	</footer>
 	<!-- Footer -->
 
+	</div>
+	<!--  end page wrapper  -->	
+
 </body>
 </html>
