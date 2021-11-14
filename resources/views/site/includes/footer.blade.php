@@ -1,6 +1,5 @@
-<footer>
-	
-</footer>
+@include(INCLUDES . 'footer_header')
 
-</body>
-</html>
+@include(INCLUDES . 'footer_body')
+
+@include(INCLUDES . 'footer_bottom')

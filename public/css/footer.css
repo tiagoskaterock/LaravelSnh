@@ -1,0 +1,8 @@
+.footer_link:hover {
+	color: orange !important;
+}
+
+.footer_midia_link:hover {
+	color: orange !important;
+	text-decoration: none;
+}
