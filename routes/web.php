@@ -15,3 +15,9 @@ Route::get('/', function () {
 Route::get('/blog', function () {
     return view('site.blog');
 })->name('blog');
+
+
+
+Route::get('/post', function () {
+    return view('site.post');
+})->name('post');

@@ -7,23 +7,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/cat" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skate" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="mt-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			
@@ -38,23 +38,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/skate" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skateboard" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="mt-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			
@@ -69,23 +69,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/kitten" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skater" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="mt-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			
@@ -100,23 +100,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/sexy" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skateboarder" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="mt-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			
@@ -131,23 +131,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/girl" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skatergirl" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="p-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			
@@ -164,23 +164,23 @@
 
 
 		<!--  Blog Post  -->
-		<div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+		<div class="col-sm-12 col-md-6 col-lg-4 mb-5">
 
 			<h2 class="text-center">
-				<a href="#!" class="text-muted post-titulo">
+				<a href="{{ route('post') }}" class="post-titulo">
 					Lorem Ipsum
 				</a>
 			</h2>													
 
 			
-			<a href="#!">
-				<img src="https://loremflickr.com/320/240/dog" alt="imagem" class="w-100">						
+			<a href="{{ route('post') }}">
+				<img src="https://loremflickr.com/320/240/skateboarders" alt="imagem" class="w-100 post-image">						
 			</a>
 
 			<p class="mt-3">
 			  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit...  
 			  <a class="btn bg-laranja btn-sm float-right text-light"
-				  href="#!">
+				  href="{{ route('post') }}">
 			  	Leia mais
 			  </a>
 			</p>			

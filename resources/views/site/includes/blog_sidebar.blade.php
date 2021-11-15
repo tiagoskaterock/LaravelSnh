@@ -1,21 +1,7 @@
-<div class="container-fluid mt-5 sibebar-bloco">
-	<h2 class="text-muted">Uĺtimas Postagens</h2>		
+<aside>
 
-	<ul class="list-unstyled">
-		<li>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-			<a href="#!">Lorem Ipsum</a>
-		</li>
-	</ul>
-				
+	@include(INCLUDES . 'ultimas_postagens')
 
-</div>
+	@include(INCLUDES . 'sidebar_categorias')
+
+</aside>

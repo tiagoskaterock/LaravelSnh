@@ -1,6 +1,10 @@
+.post-titulo {
+	color: orange;
+}
+
 .post-titulo:hover {
 	text-decoration: none !important;
-	color: orange !important;
+	color: orangered;
 }
 
 .post-conteudo {
@@ -8,5 +12,29 @@
 }
 
 .sibebar-bloco {
+	padding: 20px;
 	background-color: #eee;
+	border-radius: 10px;
+}
+
+.post_link_sidebar {
+	text-decoration: none;
+	color: orange;
+}
+
+.post_link_sidebar:hover {
+	color: orangered;
+}
+
+.titulo_sidebar {
+	background-color: orange;
+	padding: 5px;
+	color: white;
+	font-weight: bolder;
+	border-radius: 10px;
+}
+
+.post-image {
+	-webkit-box-shadow: 12px 14px 41px 5px rgba(0,0,0,0.34); 
+	box-shadow: 12px 14px 41px 5px rgba(0,0,0,0.34);
 }

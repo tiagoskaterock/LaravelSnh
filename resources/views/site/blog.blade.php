@@ -26,7 +26,7 @@ define('TITULO', 'Blog');
 	<!--  Sidebar  -->
 	<div class="col-md-4">
 
-		
+		@include(INCLUDES . 'blog_sidebar')
 		
 	</div>
 	<!--  End Sidebar  -->
