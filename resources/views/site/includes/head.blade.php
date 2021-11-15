@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <title>SNH - Início</title>
+  <title>SNH - {{ TITULO }}</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -20,6 +20,7 @@
   <!--  CSS  -->
   <link rel="stylesheet" href="css/footer.css">
   <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/tiago.css">
 
 </head>
 

@@ -10,7 +10,7 @@
     <div class="carousel-inner">
 
       <div class="carousel-item active">
-        <img src="https://loremflickr.com/900/400/woman" class="d-block w-100" alt="..." width="1100" height="500">
+        <img src="{{ asset('/img/carousel2.jpg') }}" class="d-block w-100" alt="..." width="1100">
         <div class="carousel-caption">
           <h3>Los Angeles</h3>
           <p>We had such a great time in LA!</p>
@@ -18,7 +18,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="https://loremflickr.com/900/400/girls" class="d-block w-100" alt="..." width="1100" height="500">
+        <img src="{{ asset('/img/carousel3.jpg') }}" class="d-block w-100" alt="..." width="1100">
         <div class="carousel-caption">
           <h3>Chicago</h3>
           <p>Thank you, Chicago!</p>
@@ -26,7 +26,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="https://loremflickr.com/900/400/sexy" class="d-block w-100" alt="..." width="1100" height="500">
+        <img src="{{ asset('/img/carousel4.jpg') }}" class="d-block w-100" alt="..." width="1100">
         <div class="carousel-caption">
           <h3>New York</h3>
           <p>We love the Big Apple!</p>

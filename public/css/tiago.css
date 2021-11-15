@@ -1,0 +1,8 @@
+.migalhas {
+	text-align: center;
+}
+
+.bread_link:hover {
+	text-decoration: none;
+	color: orange !important;
+}
