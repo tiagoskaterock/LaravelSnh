@@ -1,5 +1,7 @@
 .nav_link:hover {
 	color: orange !important;
+	background-color: #444;
+	border-radius: 5px;
 }
 
 .nav_link {
