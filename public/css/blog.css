@@ -1,0 +1,8 @@
+.post-titulo:hover {
+	text-decoration: none !important;
+	color: orange !important;
+}
+
+.post-conteudo {
+	text-align: center;
+}

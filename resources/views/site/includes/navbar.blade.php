@@ -3,7 +3,7 @@
 
   <!-- navbar wrapper -->
   <div class="fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light p-2 pl-5">
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light p-2 pl-5">
       <a class="navbar-brand" href="{{ route('inicio') }}">SNH</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

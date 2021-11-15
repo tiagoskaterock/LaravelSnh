@@ -1,8 +1,29 @@
 .migalhas {
+	margin-top: 150px;
 	text-align: center;
 }
 
 .bread_link:hover {
 	text-decoration: none;
 	color: orange !important;
+}
+
+.tiago-bg {
+	background-image: url("/img/carousel1.jpg"); 
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	font-size: 2em;
+}
+
+.migalha {
+	color: white !important;
+}
+
+.text-laranja {
+	color: orange;
+}
+
+.bg-laranja {
+	background-color: orange;
 }

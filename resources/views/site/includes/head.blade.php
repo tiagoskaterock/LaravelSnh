@@ -21,7 +21,8 @@
   <link rel="stylesheet" href="css/footer.css">
   <link rel="stylesheet" href="css/nav.css">
   <link rel="stylesheet" href="css/tiago.css">
+  <link rel="stylesheet" href="css/blog.css">
 
 </head>
 
-<body>
+<body  style="overflow-x: hidden;">
